@@ -8,11 +8,11 @@ align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdhakad15&label=Profile%20views&color=0e75b6&style=flat" alt="cdhakad15" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Nextjs**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Web Development, Java**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **chetandhakad1505@gmail.com**
 
