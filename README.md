@@ -10,9 +10,9 @@ align="right">
 
 - 🔭 I’m currently working on **Nextjs**
 
-- 🌱 I’m currently learning **Typescript*
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Web Development, **
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **chetandhakad1505@gmail.com**
 
